@@ -1,0 +1,13 @@
+﻿  check.cpp
+  test.cpp
+  practise.cpp
+C:\Users\李宗辉\Desktop\贝叶斯垃圾邮件过滤 大作业\贝叶斯垃圾邮件过滤 大作业\practise.cpp(12,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\李宗辉\Desktop\贝叶斯垃圾邮件过滤 大作业\贝叶斯垃圾邮件过滤 大作业\practise.cpp(39,21): warning C4018: “<”: 有符号/无符号不匹配
+  word.cpp
+  dictionary.cpp
+  menu.cpp
+  bayesanalyse.cpp
+C:\Users\李宗辉\Desktop\贝叶斯垃圾邮件过滤 大作业\贝叶斯垃圾邮件过滤 大作业\bayesanalyse.cpp(16,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+C:\Users\李宗辉\Desktop\贝叶斯垃圾邮件过滤 大作业\贝叶斯垃圾邮件过滤 大作业\dictionary.cpp(20): warning C4715: “Dictionary::ifexist”: 不是所有的控件路径都返回值
+  贝叶斯垃圾邮件过滤 大作业.vcxproj -> C:\Users\李宗辉\Desktop\贝叶斯垃圾邮件过滤 大作业\Debug\贝叶斯垃圾邮件过滤 大作业.exe
